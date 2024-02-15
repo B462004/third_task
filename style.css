@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(3, 3, 16);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    
+}
+
+.continer{
+   height: 100%;
+    margin: auto;
+    width: 35%;
+   margin-top: 50px;
+   
+    border-radius: 10px;
+
+margin-bottom: 50px;
+    
+    
+}
+.text{
+    text-align: center;
+    color: antiquewhite;
+    background-color: rgb(34, 4, 62);
+    padding: 80px 72px 64px;
+    border-top: rgb(65, 42, 86); ;
+    margin-top: -5px;
+ 
+}
+h2{
+    font-weight: bold;
+}
+span{
+    color: rgb(89, 49, 126);
+    font-weight: bold;
+  
+}
+.div3{
+  
+    font-size: medium;
+    font-weight: 14px;
+}
+.imge{
+   
+    border-radius: 5px;
+    background-image:url(../stats-preview-card-component-main/images/image-header-desktop.jpg);
+    height:450px;
+   margin-top: -3;
+    
+    background-repeat: no-repeat;
+    
+   opacity: 25%;
+}
